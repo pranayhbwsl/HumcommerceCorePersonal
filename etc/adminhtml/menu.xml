@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Humcommerce_Core::humc" title="Humcommerce" module="Humcommerce_Core" sortOrder="50" resource="Humcommerce_Core::humc" />
+    </menu>
+</config>
